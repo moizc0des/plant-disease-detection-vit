@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using Vision Transformer
+# 🌿 Vision Transformer for Plant Disease Detection using PlantDoc Dataset
 
 This project implements a Vision Transformer (ViT-B/16) model for plant disease detection using the PlantDoc dataset.
 
