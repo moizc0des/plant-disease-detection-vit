@@ -30,8 +30,13 @@ Output
 
 Disease prediction
 
-Confidence score
+Health Probability
 
+Disease Probability
+
+Possible Conditions
+
+Disease Hotspot Map/Probable Disease Hotspot Map
 
 ---
 
