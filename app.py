@@ -50,7 +50,7 @@ DISEASE_ADVICE = {
 
 # ---------------- UI ----------------
 st.set_page_config(page_title="Plant Disease Detection", layout="centered")
-st.title("🌿 Smart Plant Disease Detection System")
+st.title("🌿 Vision Transformer for Plant Disease Detection")
 
 # ---------------- HELPERS ----------------
 
