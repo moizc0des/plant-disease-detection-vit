@@ -1,6 +1,7 @@
 import streamlit as st
 import torch
 import timm
+import gdown
 from PIL import Image
 from torchvision import transforms
 import numpy as np
